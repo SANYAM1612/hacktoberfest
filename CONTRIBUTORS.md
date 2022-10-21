@@ -1,3 +1,8 @@
+#### Name: [Sanyam Gupta](https://github.com/SANYAM1612)
+ - Place: Pathankot, Punjab ,India
+ - Bio: Sophomore,A computer science student
+ - GitHub: [SANYAM1612](https://github.com/SANYAM1612)
+  
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
